@@ -9,6 +9,8 @@ in filter.js I code the filter functionality. in every button click I set a numb
 
 and in Movie.js we show the data.
 
+i use framer motion for animation.
+
 and we pass the data parent to the child component using react prop drilling.
 
 
