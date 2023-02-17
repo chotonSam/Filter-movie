@@ -9,7 +9,7 @@ in filter.js I code the filter functionality. in every button click I set a numb
 
 and in Movie.js we show the data.
 
-and we pass the data parent to the child component using react. prop drilling.
+and we pass the data parent to the child component using react prop drilling.
 
 
-to show the application# https://legendary-bavarois-ca269c.netlify.app/
+Deploy link# https://legendary-bavarois-ca269c.netlify.app/
